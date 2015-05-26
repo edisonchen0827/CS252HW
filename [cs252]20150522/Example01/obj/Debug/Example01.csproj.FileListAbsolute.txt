@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\bin\Debug\Example01.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\bin\Debug\Example01.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\bin\Debug\Example01.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\obj\Debug\Example01.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\[cs2552]Example01\Example01\obj\Debug\Example01.pdb
+G:\[cs252]20150522\Example01\bin\Debug\Example01.exe.config
+G:\[cs252]20150522\Example01\obj\Debug\Example01.exe
+G:\[cs252]20150522\Example01\obj\Debug\Example01.pdb
+G:\[cs252]20150522\Example01\bin\Debug\Example01.exe
+G:\[cs252]20150522\Example01\bin\Debug\Example01.pdb
+G:\[cs252]20150522\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
